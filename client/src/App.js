@@ -9,9 +9,9 @@ import logo from "./logo.jpeg";
 
 const client = new ApolloClient({
   // local host
-  // uri: 'http://localhost:5000/graphql'
+  uri: 'http://localhost:5000/graphql'
   //Development
-  uri: '/graphql'
+  //uri: '/graphql'
 });
 
 function App() {
