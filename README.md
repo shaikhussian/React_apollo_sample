@@ -26,3 +26,5 @@ Open [https://rocky-wildwood-56086.herokuapp.com/graphql](https://rocky-wildwood
 
 
 ![React_apollo_sample](https://github.com/shaikhussian/React_apollo_sample/blob/master/client/frontEnd_video.gif?raw=true)
+
+![React_apollo_sample](https://github.com/shaikhussian/React_apollo_sample/blob/master/client/graphql.png?raw=true)
