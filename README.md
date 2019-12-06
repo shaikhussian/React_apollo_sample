@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `Run the sample`
 clone the repo using <br/>
 git clone https://github.com/shaikhussian/React_apollo_sample.git<br/>
-cd spacex_launch_stats <br/>
+cd React_apollo_sample <br/>
 npm install <br/>
 cd client <br/>
 npm install <br/>
