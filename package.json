@@ -12,7 +12,7 @@
   "author": "Hussian shaik",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "concurrently": "^5.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
